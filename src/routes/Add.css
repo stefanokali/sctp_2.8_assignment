@@ -1,0 +1,8 @@
+.stack-vertical{
+    display: flex;
+    flex-direction: column;
+}
+
+.label{
+    width: 500px;
+}
